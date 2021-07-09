@@ -15,7 +15,7 @@ Access PAIRS GUI here: https://ibmpairs.mybluemix.net/ (log in with your IBM id)
 
 We will run a short demo of the GUI in the workshop.
 
-## Tutorial - fetch Notebooks to your local machine
+## PAIRS api python tutorials - fetch Notebooks to your local machine
 
 To get a copy of the Notebooks follow the steps below.
 
