@@ -1,5 +1,5 @@
 # Climate change and malaria workshop - tutorials
-The tutorials are part of the C2MA Climate Change Malaria Action workshop which runs from 19th to 21st of July 2021 - full details [here](https://sites.google.com/view/climatechangemalariaaction/home)
+The tutorials are part of the C2MA Climate Change Malaria Action workshop which runs from 19th to 21st of July 2021 - full details [here](https://sites.google.com/view/climatechangemalariaaction/home).
 
 In this repository are a number of tutorials demonstrating how to query climate from IBM PAIRS/Weather Ops Center api, post-process, and run a simple R0 malaria model using climate-sensitive transmission metrics.
 
