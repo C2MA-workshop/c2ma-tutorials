@@ -1,5 +1,7 @@
 # Climate change and malaria workshop - tutorials
-Various tutorials demonstrating how to query climate from IBM PAIRS/Weather Ops Center api, post-process, and calculate simple malaria transmission metrics
+The tutorials are part of the C2MA Climate Change Malaria Action workshop which runs from 19th to 21st of July 2021 - full details (here)[https://sites.google.com/view/climatechangemalariaaction/home]
+
+In this repository are a number of tutorials demonstrating how to query climate from IBM PAIRS/Weather Ops Center api, post-process, and run a simple R0 malaria model using climate-sensitive transmission metrics.
 
 # Using IBM PAIRS
 There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls. There are "Datasets" and "DataLayers". There is a one to many relationship (a dataset contains one or more datalayers).   
