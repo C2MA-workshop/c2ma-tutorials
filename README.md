@@ -3,7 +3,7 @@ The tutorials are part of the C2MA Climate Change Malaria Action workshop which 
 
 In this repository are a number of tutorials demonstrating how to query climate from IBM PAIRS/Weather Ops Center api, post-process, and run a simple R0 malaria model using climate-sensitive transmission metrics.
 
-If you would intend to use the R0 model from tutorial 3 in a publication, please contact anne.jones@ibm.com for citation information.
+If you would intend to use the R0 model from tutorial 3 in a publication, please use the DOI [![DOI](https://zenodo.org/badge/357284417.svg)](https://zenodo.org/badge/latestdoi/357284417). We would also be very interested to hear how you intend to use it: contact anne.jones@ibm.com
 
 # Using IBM PAIRS
 There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls. There are "Datasets" and "DataLayers". There is a one to many relationship (a dataset contains one or more datalayers).   
